@@ -1,9 +1,6 @@
 # Checkliste - Organisation SaxFDM Tagungen
 ----
 
-[TOC]
-
-----
 ## Data Award
 - [ ] Kriterienliste aufsetzen 
     - [Datensatzevaluation](https://sharepoint.tu-dresden.de/sites/saxfdm/_layouts/15/WopiFrame.aspx?sourcedoc=%7B285897B7-7B49-4122-9400-B54D0C8C8984%7D&file=4.%20Tagung_Evaluationsmappe.xlsx&action=default&CT=1702979584889&OR=DocLibClassicUI) 
